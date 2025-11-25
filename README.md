@@ -201,17 +201,7 @@ Soy **Desarrollador Full-Stack Junior** y estudiante de Ingeniería. Actualmente
     <img src="https://ghchart.rshah.org/jos22ro" alt="Gráfico de Contribuciones de GitHub">
 </a>
 
-<details>
-  <summary style="font-size: 1.17em; font-weight: bold;">
-    <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />&nbsp;&nbsp;Resumen de Estadísticas de Git&nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />
-  </summary>
-  
-  <a href="https://gitroll.io/profile/uQ8UJvo11fpOJ2YyqqUcaqFjkNqp1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uQ8UJvo11fpOJ2YyqqUcaqFjkNqp1?theme=darkEmerald" alt="GitRoll Profile Badge"/></a>
-  <img src="https://myreadme.vercel.app/api/embed/jos22ro?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="Estadísticas de GitHub">
-      <img src="https://github-readme-bento.vercel.app/stats/jos22ro?theme=dark" alt="Estadísticas de GitHub">
-      <img src="https://stats.dooboo.io/api/github-stats-advanced?login=jos22ro" alt="Estadísticas Avanzadas de GitHub" width="400">
 
-</details>
 
 <br>
 
